@@ -1,6 +1,6 @@
  [
   {
-    "id": "SingaFlower2",
+    "id": 1,
     "image_path": "https://i.imgur.com/OdiNNyy.jpg",
     "thumbnail": "https://i.imgur.com/OdiNNyym.jpg",
     "image_name": "OdiNNyym.jpg",
@@ -8,7 +8,7 @@
     "height": 3024
   },
   {
-    "id": "SingaFlower3",
+    "id": 2,
     "image_path": "https://i.imgur.com/67r0FdB.jpg",
     "image_name": "67r0FdB.jpg",
     "thumbnail": "https://i.imgur.com/67r0FdBm.jpg",
@@ -16,7 +16,7 @@
     "height": 3024
   },
   {
-    "id": "SingaFlower4",
+    "id": 3,
     "image_path": "https://i.imgur.com/SVDaEjI.jpg",
     "thumbnail": "https://i.imgur.com/SVDaEjIm.jpg",
     "image_name": "SVDaEjIm.jpg",
@@ -24,7 +24,7 @@
     "height": 3024
   },
   {
-    "id": "SingaFlower5",
+    "id": 4,
     "image_path": "https://i.imgur.com/bahJfL9.jpg",
     "image_name": "bahJfL9.jpg",
     "thumbnail": "https://i.imgur.com/bahJfL9m.jpg",
@@ -32,7 +32,7 @@
     "height": 3024
   },
   {
-    "id": "SingaFlower6",
+    "id": 5,
     "image_path": "https://i.imgur.com/Bj6vL8t.jpg",
     "image_name": "Bj6vL8t.jpg",
     "thumbnail": "https://i.imgur.com/Bj6vL8tm.jpg",
